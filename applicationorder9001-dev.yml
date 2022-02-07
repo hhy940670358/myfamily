@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: order11
+    name: order
   datasource:
     type:  com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
